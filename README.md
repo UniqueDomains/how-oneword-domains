@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .how one-word domains from Unique 
 
 **Public extract:** 9,513 rows · **Live catalog:** 9,513 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/how`  
 **Best for:** founders, investors, studios
 
@@ -68,7 +68,7 @@ print(df.head())
 | corona.how     | resell    | —         | —             | 80             | 54     | 6      | Porkbun LLC                 |
 | power.how      | premium   | $474.50   | $474.50       | 98             | 62     | 5      | namecheap                   |
 | nationwide.how | available | $34.99    | $34.99        | 76             | 66     | 10     | name.com                    |
-| best.how       | resell    | —         | —             | 82             | 53     | 4      | Automattic Inc              |
+| best.how       | resell    | —         | —             | 82             | 52     | 4      | Automattic Inc              |
 | cloud.how      | premium   | $768.30   | $768.30       | 70             | 59     | 5      | namecheap                   |
 | seventeen.how  | available | $34.99    | $34.99        | 84             | 62     | 9      | name.com                    |
 | auto.how       | resell    | —         | —             | 68             | 45     | 4      | Spaceship, Inc.             |
@@ -81,7 +81,7 @@ print(df.head())
 | good.how       | premium   | $686.25   | $686.25       | 82             | 55     | 4      | name.com                    |
 | total.how      | available | $34.99    | $34.99        | 108            | 38     | 5      | name.com                    |
 | chatbot.how    | resell    | —         | —             | 82             | 38     | 7      | Sav.com, LLC                |
-| alpha.how      | premium   | $423.75   | $423.75       | 90             | 54     | 5      | name.com                    |
+| zero.how       | premium   | $423.75   | $423.75       | 112            | 53     | 4      | name.com                    |
 | conscious.how  | available | $34.99    | $34.99        | 89             | 38     | 9      | name.com                    |
 | finding.how    | resell    | —         | —             | 76             | 21     | 7      | Squarespace Domains II LLC. |
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOW One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOW One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
