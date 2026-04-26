@@ -1,22 +1,22 @@
-# Available .HOW One-Word Domains (9,513)
+# Available .HOW One-Word Domains (11,931)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C513%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C513%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C931%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .how one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .how one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,931 domains** on the canonical page below.
 
-**Public extract:** 9,513 rows · **Live catalog:** 9,513 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,931 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/how`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .HOW one-word domain c
 
 ### Files
 
-- `how.csv` — public CSV extract (9,513 rows)
-- `how.json` — public JSON extract (9,513 rows)
+- `how.csv` — public CSV extract (1,000 rows)
+- `how.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                   |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------- |
-| converse.how   | available | $34.99    | $34.99        | 64             | 73     | 8      | name.com                    |
-| corona.how     | resell    | —         | —             | 80             | 54     | 6      | Porkbun LLC                 |
-| power.how      | premium   | $474.50   | $474.50       | 98             | 62     | 5      | namecheap                   |
-| nationwide.how | available | $34.99    | $34.99        | 76             | 66     | 10     | name.com                    |
-| best.how       | resell    | —         | —             | 82             | 52     | 4      | Automattic Inc              |
-| cloud.how      | premium   | $768.30   | $768.30       | 70             | 59     | 5      | namecheap                   |
-| seventeen.how  | available | $34.99    | $34.99        | 84             | 62     | 9      | name.com                    |
-| auto.how       | resell    | —         | —             | 68             | 45     | 4      | Spaceship, Inc.             |
-| live.how       | premium   | $686.25   | $686.25       | 108            | 56     | 4      | name.com                    |
-| true.how       | available | $34.99    | $34.99        | 86             | 52     | 4      | name.com                    |
-| next.how       | resell    | —         | —             | 92             | 43     | 4      | Spaceship, Inc.             |
-| data.how       | premium   | $768.30   | $768.30       | 70             | 56     | 4      | namecheap                   |
-| first.how      | available | $34.99    | $34.99        | 80             | 41     | 5      | name.com                    |
-| radio.how      | resell    | —         | —             | 102            | 42     | 5      | Dynadot LLC.                |
-| good.how       | premium   | $686.25   | $686.25       | 82             | 55     | 4      | name.com                    |
-| total.how      | available | $34.99    | $34.99        | 108            | 38     | 5      | name.com                    |
-| chatbot.how    | resell    | —         | —             | 82             | 38     | 7      | Sav.com, LLC                |
-| zero.how       | premium   | $423.75   | $423.75       | 112            | 53     | 4      | name.com                    |
-| conscious.how  | available | $34.99    | $34.99        | 89             | 38     | 9      | name.com                    |
-| finding.how    | resell    | —         | —             | 76             | 21     | 7      | Squarespace Domains II LLC. |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| shortcuts.how    | available | $34.99    | —             | 48             | 41     | 10     | name.com  |
+| cars.how         | premium   | $686.25   | —             | 66             | 47     | 4      | name.com  |
+| neuroscience.how | available | $34.99    | —             | 80             | 37     | 12     | name.com  |
+| coins.how        | premium   | $423.75   | —             | 56             | 41     | 5      | name.com  |
+| stories.how      | available | $34.99    | —             | 58             | 36     | 7      | name.com  |
+| events.how       | premium   | $686.25   | —             | 68             | 37     | 6      | name.com  |
+| spaces.how       | available | $34.99    | —             | 54             | 30     | 6      | name.com  |
+| etc.how          | premium   | $111.25   | —             | 58             | 34     | 3      | name.com  |
+| SanDiego.how     | available | $34.99    | —             | 74             | 29     | 9      | name.com  |
+| payments.how     | premium   | $111.25   | —             | 58             | 33     | 8      | name.com  |
+| heroes.how       | available | $34.99    | —             | 68             | 29     | 6      | name.com  |
+| videos.how       | premium   | $223.75   | —             | 52             | 30     | 6      | name.com  |
+| forms.how        | available | $34.99    | —             | 54             | 28     | 5      | name.com  |
+| popup.how        | premium   | $111.25   | —             | 84             | 29     | 6      | name.com  |
+| gods.how         | available | $34.99    | —             | 72             | 27     | 4      | name.com  |
+| dogs.how         | premium   | $686.25   | —             | 76             | 28     | 4      | name.com  |
+| rekt.how         | available | $34.99    | —             | 40             | 24     | 4      | name.com  |
+| backyard.how     | premium   | $48.75    | —             | 80             | 27     | 9      | name.com  |
+| deeplearning.how | available | $34.99    | —             | 74             | 23     | 13     | name.com  |
+| bees.how         | premium   | $223.75   | —             | 54             | 27     | 4      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,513-row public sample | 9,513 live domains                               |
+| 1,000-row public sample | 11,931 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOW One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOW One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
