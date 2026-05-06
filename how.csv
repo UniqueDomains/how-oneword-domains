@@ -407,6 +407,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 23e0e79f-d2fd-470e-a2c8-89de55b5ed9b,chickenfriedsteak.how,available,34.99,,72,1,19,name.com,,
 23f0fdc7-7e71-458c-b145-edb4b7c4580c,makefirstbase.how,available,34.99,,42,1,15,name.com,,
 23fc6673-d244-4362-a81f-8a73d7696827,additions.how,available,34.99,,58,4,9,name.com,,
+24109821-c74c-4f81-82c6-c84c9c3ec53b,motion.how,premium,,,84,36,6,,,
 241972da-4676-4c30-bc63-50c1aab8ea46,spinydogfish.how,available,34.99,,60,1,13,name.com,,
 2428d90f-6dea-410d-83e3-c2fa648d0cf2,tryon.how,available,34.99,,77,13,6,name.com,,
 24539a1a-ddbc-430d-aea5-a00a9ba44de8,ohmygoodness.how,available,34.99,,50,4,14,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5603a063-0d8b-4442-aa0e-3121b2b8c380,shorted.how,available,34.99,,61,4,7,name.com,,
 5616acf3-df03-48cc-9eec-0e5359f20194,deepinthought.how,available,34.99,,52,1,15,name.com,,
 5618eef0-9595-4156-9280-3d84b9f6cc52,pros.how,premium,223.75,,53,23,4,name.com,,
-56266599-1f33-4836-841a-f8b2ce76f6e3,stared.how,available,34.99,,56,4,6,name.com,,
