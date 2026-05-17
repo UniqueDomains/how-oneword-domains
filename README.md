@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .how one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,473 domains · **Median ask:** $61.92 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/how`  
 **Best for:** founders, investors, studios
 
@@ -68,8 +68,8 @@ print(df.head())
 | barup.how     | available | $34.99    | —             | 82             | 2      | 6      | name.com  |
 | forces.how    | available | $34.99    | —             | 82             | 12     | 6      | name.com  |
 | leaveon.how   | available | $34.99    | —             | 80             | 1      | 8      | name.com  |
-| rumcake.how   | available | $34.99    | —             | 81             | 3      | 8      | name.com  |
-| surebet.how   | available | $34.99    | —             | 82             | 8      | 8      | name.com  |
+| rumcake.how   | available | $34.99    | —             | 81             | 2      | 8      | name.com  |
+| surebet.how   | available | $34.99    | —             | 82             | 7      | 8      | name.com  |
 | beawake.how   | available | $34.99    | —             | 84             | 3      | 8      | name.com  |
 | shortcuts.how | available | $34.99    | —             | 48             | 41     | 10     | name.com  |
 | cars.how      | premium   | $686.25   | —             | 66             | 47     | 4      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOW One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOW One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
