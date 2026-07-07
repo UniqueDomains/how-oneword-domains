@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .how one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,473 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,473 domains · **Median ask:** $61.92 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,473 domains · **Median ask:** $80.38 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/how`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/how`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .HOW one-word domain c
 
 ### Files
 
-- `how.csv` — public CSV extract (1,000 rows)
-- `how.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `how.csv`, public CSV extract (1,000 rows)
+- `how.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| jewels.how    | available | $34.99    | —             | 80             | 15     | 6      | name.com  |
-| barup.how     | available | $34.99    | —             | 82             | 2      | 6      | name.com  |
-| forces.how    | available | $34.99    | —             | 82             | 12     | 6      | name.com  |
-| leaveon.how   | available | $34.99    | —             | 80             | 1      | 8      | name.com  |
-| rumcake.how   | available | $34.99    | —             | 81             | 2      | 8      | name.com  |
-| surebet.how   | available | $34.99    | —             | 82             | 7      | 8      | name.com  |
-| beawake.how   | available | $34.99    | —             | 84             | 3      | 8      | name.com  |
-| shortcuts.how | available | $34.99    | —             | 48             | 41     | 10     | name.com  |
-| cars.how      | premium   | $686.25   | —             | 66             | 47     | 4      | name.com  |
-| stories.how   | available | $34.99    | —             | 58             | 36     | 7      | name.com  |
-| coins.how     | premium   | $423.75   | —             | 56             | 41     | 5      | name.com  |
-| spaces.how    | available | $34.99    | —             | 54             | 30     | 6      | name.com  |
-| payments.how  | premium   | $111.25   | —             | 58             | 33     | 8      | name.com  |
-| heroes.how    | available | $34.99    | —             | 68             | 29     | 6      | name.com  |
-| videos.how    | premium   | $223.75   | —             | 52             | 30     | 6      | name.com  |
-| forms.how     | available | $34.99    | —             | 54             | 28     | 5      | name.com  |
-| dogs.how      | premium   | $686.25   | —             | 76             | 28     | 4      | name.com  |
-| origins.how   | available | $34.99    | —             | 46             | 22     | 7      | name.com  |
-| backyard.how  | premium   | $48.75    | —             | 80             | 27     | 9      | name.com  |
-| Tshirts.how   | available | $34.99    | —             | 70             | 20     | 8      | name.com  |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                   |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------- |
+| half.how    | premium   | $223.75   | —             | high           | low    | 4      | name.com                    |
+| CNN.how     | available | $34.99    | —             | high           | low    | 3      | name.com                    |
+| finding.how | resell    | —         | —             | high           | low    | 7      | Squarespace Domains II LLC. |
+| act.how     | premium   | $686.25   | —             | high           | low    | 3      | name.com                    |
+| coy.how     | available | $34.99    | $34.99        | medium         | low    | 3      | name.com                    |
+| ana.how     | premium   | $423.75   | —             | high           | low    | 3      | name.com                    |
+| gag.how     | available | $34.99    | —             | high           | low    | 3      | name.com                    |
+| bow.how     | premium   | $423.75   | —             | high           | low    | 3      | name.com                    |
+| lot.how     | available | $34.99    | —             | medium         | low    | 3      | name.com                    |
+| cue.how     | premium   | $111.25   | —             | medium         | low    | 3      | name.com                    |
+| nun.how     | available | $34.99    | —             | medium         | low    | 3      | name.com                    |
+| DIY.how     | premium   | $223.75   | —             | high           | low    | 3      | name.com                    |
+| toe.how     | available | $34.99    | —             | medium         | low    | 3      | name.com                    |
+| dog.how     | premium   | $686.25   | —             | high           | low    | 3      | name.com                    |
+| yur.how     | available | $34.99    | —             | high           | low    | 3      | name.com                    |
+| don.how     | premium   | $223.75   | —             | high           | low    | 3      | name.com                    |
+| ahuh.how    | available | $34.99    | —             | high           | low    | 4      | name.com                    |
+| eye.how     | premium   | $423.75   | —             | medium         | low    | 3      | name.com                    |
+| Audi.how    | available | $34.99    | —             | high           | high   | 4      | name.com                    |
+| flu.how     | premium   | $423.75   | —             | medium         | low    | 3      | name.com                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is made up entirely of one-word .how domains. The extension gives each name an instructional or explainer angle, so the best fits are words that can naturally support guidance, learning, process, or expertise. Examples in this selection range from broad terms like finals.how and forces.how to more specific words like matcha.how and jewels.how. With a median ask around $62, the entry price is modest, but quality still varies widely. When comparing these domains, focus on whether the word feels clear with .how, whether the phrase is easy to remember and say aloud, and whether the term raises obvious trademark concerns, especially with branded words.
+This is a list of one-word .HOW domain names, spanning short standalone words and compound combinations such as WiFi.how, CocaCola.how, and coffeebush.how. With 12,473 names in this set and a median asking price near $80, the .HOW extension offers an affordable, less-crowded alternative for founders seeking a brandable, ownable name and for investors scanning a niche TLD for value. Pricing, renewal cost, and spelling simplicity are the key factors to weigh before choosing a name from this selection.
 
-- All names in this set use the .how extension
-- Median ask is about $62 across the selection
-- Best fits are words that pair naturally with “how”
-- Check branded terms closely for trademark risk
+- 12,473 one-word .HOW domains available across a single niche TLD
+- Median asking price near $80 — budget-friendly entry point
+- Brandable one-word names ready to own now, from short to compound
+- Compare pricing and renewal before committing to a .HOW domain
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOW One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOW One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
