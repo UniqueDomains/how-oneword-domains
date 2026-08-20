@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .how one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,430 domains · **Median ask:** $61.43 · **High-demand under $2,500:** 20
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/how`
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,6 @@ print(df.head())
 
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                   |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------- |
-| half.how    | premium   | $223.75   | —             | high           | low    | 4      | name.com                    |
-| great.how   | premium   | $686.25   | —             | high           | low    | 5      | name.com                    |
 | clv.how     | available | $30.98    | $41.98        | low            | low    | 3      | namecheap                   |
 | finding.how | resell    | —         | —             | high           | low    | 7      | Squarespace Domains II LLC. |
 | act.how     | premium   | $686.25   | —             | high           | low    | 3      | name.com                    |
@@ -84,6 +82,8 @@ print(df.head())
 | nun.how     | available | $34.99    | —             | medium         | low    | 3      | name.com                    |
 | don.how     | premium   | $223.75   | —             | high           | low    | 3      | name.com                    |
 | toe.how     | available | $34.99    | —             | medium         | low    | 3      | name.com                    |
+| eye.how     | premium   | $423.75   | —             | medium         | low    | 3      | name.com                    |
+| yur.how     | available | $34.99    | —             | high           | low    | 3      | name.com                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOW One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOW One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
