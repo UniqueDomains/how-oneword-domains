@@ -1,10 +1,10 @@
-# Available .HOW One-Word Domains (24,393)
+# Available .HOW One-Word Domains (24,938)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C393%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C938%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .how one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,393 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,938 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,393 domains · **Median ask:** $58.46 · **High-demand under $2,500:** 47
+**Public extract:** 1,000 rows · **Live catalog:** 24,938 domains · **Median ask:** $57.82 · **High-demand under $2,500:** 50
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/how`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| anu.how | available | $30.98    | $41.98        | high           | low    | 3      | namecheap |
-| ads.how | premium   | $686.25   | —             | high           | medium | 3      | name.com  |
-| arb.how | available | $30.98    | $41.98        | high           | low    | 3      | namecheap |
-| atc.how | premium   | $768.30   | $768.30       | high           | low    | 3      | namecheap |
-| baa.how | available | $30.98    | $41.98        | high           | low    | 3      | namecheap |
-| bug.how | premium   | $223.75   | —             | high           | low    | 3      | name.com  |
-| bat.how | available | $30.98    | $41.98        | high           | low    | 3      | namecheap |
-| cob.how | premium   | $122.20   | $122.20       | high           | low    | 3      | namecheap |
-| cia.how | available | $30.98    | $41.98        | high           | medium | 3      | namecheap |
-| esp.how | premium   | $244.40   | $244.40       | high           | low    | 3      | namecheap |
-| fig.how | available | $34.99    | —             | high           | low    | 3      | name.com  |
-| etc.how | premium   | $111.25   | —             | high           | low    | 3      | name.com  |
-| jot.how | available | $34.99    | —             | high           | low    | 3      | name.com  |
-| fur.how | premium   | $122.20   | $122.20       | high           | low    | 3      | namecheap |
-| rfc.how | available | $30.98    | $41.98        | high           | low    | 3      | namecheap |
-| git.how | premium   | $423.75   | $423.75       | high           | medium | 3      | name.com  |
-| thb.how | available | $30.98    | $41.98        | high           | low    | 3      | namecheap |
-| gum.how | premium   | $244.40   | $244.40       | high           | low    | 3      | namecheap |
-| ugh.how | available | $34.99    | —             | medium         | low    | 3      | name.com  |
-| ive.how | premium   | $223.75   | —             | medium         | low    | 3      | name.com  |
+| domain  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar  |
+| ------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------- |
+| anu.how | available | $30.98    | $41.98        | high           | low    | 3      | namecheap  |
+| ads.how | premium   | $686.25   | —             | high           | medium | 3      | name.com   |
+| arb.how | available | $30.98    | $41.98        | high           | low    | 3      | namecheap  |
+| atc.how | premium   | $768.30   | $768.30       | high           | low    | 3      | namecheap  |
+| baa.how | available | $30.98    | $41.98        | high           | low    | 3      | namecheap  |
+| bug.how | premium   | $223.75   | —             | high           | low    | 3      | name.com   |
+| bat.how | available | $30.98    | $41.98        | high           | low    | 3      | namecheap  |
+| cob.how | premium   | $122.20   | $122.20       | high           | low    | 3      | namecheap  |
+| cia.how | available | $30.98    | $41.98        | high           | medium | 3      | namecheap  |
+| esp.how | premium   | $244.40   | $244.40       | high           | low    | 3      | namecheap  |
+| fig.how | available | $34.99    | —             | high           | low    | 3      | name.com   |
+| etc.how | premium   | $111.25   | —             | high           | low    | 3      | name.com   |
+| jot.how | available | $34.99    | —             | high           | low    | 3      | name.com   |
+| fur.how | premium   | $122.20   | $122.20       | high           | low    | 3      | namecheap  |
+| psa.how | available | $20.20    | $20.20        | high           | low    | 3      | cloudflare |
+| git.how | premium   | $423.75   | $423.75       | high           | medium | 3      | name.com   |
+| rfc.how | available | $30.98    | $41.98        | high           | low    | 3      | namecheap  |
+| gum.how | premium   | $244.40   | $244.40       | high           | low    | 3      | namecheap  |
+| thb.how | available | $30.98    | $41.98        | high           | low    | 3      | namecheap  |
+| ive.how | premium   | $223.75   | —             | medium         | low    | 3      | name.com   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,393 live domains                        |
+| 1,000-row public sample | 24,938 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 47 high-demand names under $2,500          |
+| Basic exported fields   | 50 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
